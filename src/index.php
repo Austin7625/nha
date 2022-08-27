@@ -2,7 +2,7 @@
 <html lang="en-US">
    <head>
       <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>NHA - Coach C</title>
       <link rel="icon" type="image/x-icon" href="./img/nha-logo.png">
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -39,6 +39,8 @@
       $path ="./_includes/nav.php";
          require_once $path;
          ?>
+         <!-- End Navigation -->
+         <!-- Main Contents -->
          <div class="container-fluid mt-5">
             <h1 class="text-center">NHA</h1>
             <div class="row bg-grey mt-5">
@@ -49,7 +51,9 @@
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam leo urna, condimentum non ultrices at, ultricies vel metus. Praesent a tellus lobortis, convallis mauris non, molestie augue. Sed lacinia est vitae magna iaculis, a sodales lectus pulvinar. Phasellus sed rhoncus libero. Vestibulum nec dictum neque. Proin ligula nibh, sagittis sagittis velit vel, eleifend aliquet magna. Etiam fringilla tellus ac orci accumsan, sed elementum ipsum rutrum. Integer ac tincidunt nisi, vel euismod erat. Aenean ac ornare leo. Quisque fermentum, enim a laoreet consequat, purus tellus egestas leo, id euismod dolor arcu a dolor. Sed ac quam vitae neque commodo ultrices porta sit amet massa. Aenean dignissim nunc consequat, dignissim est eu, lobortis ante. Pellentesque et consequat lectus. Praesent hendrerit in turpis quis imperdiet.</p>
                </div>
             </div>
-            <!-- Footer  -->
+         </div>
+         <!-- End Cotnents -->
+         <!-- Footer  -->
             <?php
             $path ="./_includes/footer.php";
                require_once $path;
@@ -62,7 +66,7 @@
                   ?>
             </p>
             */ ?>
-         </div>
+            <!-- End Footer -->
       </main>
    </body>
 </html>

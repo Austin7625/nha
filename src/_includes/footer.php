@@ -1,4 +1,4 @@
-<footer class="footer d-flex justify-content-center">
+<footer class="footer">
   <div class="footer-left col-md-4 col-sm-6">
     <p class="about">
       <span> About NHA</span> Ut congue augue non tellus bibendum, in varius tellus condimentum. In scelerisque nibh tortor, sed rhoncus odio condimentum in. Sed sed est ut sapien ultrices eleifend. Integer tellus est, vehicula eu lectus tincidunt,
@@ -26,11 +26,11 @@
     </div>
   </div>
   <div class="footer-right col-md-4 col-sm-6">
-    <h2>NHA Logo</h2>
+    <!-- <img src="./img/nha-logo.png" class="img-fluid" alt="NHA Logo"> !-->
     <p class="menu">
       <a href="#"> Home</a> |
       <a href="#"> Music + Videos</a> |
-      <a href="#"> Tour</a> |
+     <!-- <a href="#"> Tour</a> |-->
       <a href="#"> Photos</a> |
       <a href="#"> Store</a>
     </p>
