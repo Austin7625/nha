@@ -1,0 +1,33 @@
+{
+  "name": "dba",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch src/scss:src/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austin7625/dba.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass"
+  ],
+  "author": "Austin Allison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Austin7625/dba/issues"
+  },
+  "homepage": "https://github.com/Austin7625/dba#readme",
+  "devDependencies": {
+    "sass": "^1.41.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.3.4",
+    "bootstrap": "^5.1.1",
+    "postcss-cli": "^8.3.1"
+  }
+}
