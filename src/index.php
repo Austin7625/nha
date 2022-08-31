@@ -2,8 +2,7 @@
 <html lang="en-US">
    <head>
       <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>NHA - Coach C</title>
+      <meta name="viewport" content="width=device-width,initial-scale=0">      <title>NHA - Coach C</title>
       <link rel="icon" type="image/x-icon" href="./img/nha-logo.png">
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <!-- Schema.org markup for Google+ -->

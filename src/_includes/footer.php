@@ -1,15 +1,6 @@
 <footer class="footer">
   <div class="footer-left col-md-4 col-sm-6">
-    <p class="about">
-      <span> About NHA</span> Ut congue augue non tellus bibendum, in varius tellus condimentum. In scelerisque nibh tortor, sed rhoncus odio condimentum in. Sed sed est ut sapien ultrices eleifend. Integer tellus est, vehicula eu lectus tincidunt,
-      ultricies feugiat leo. Suspendisse tellus elit, pharetra in hendrerit ut, aliquam quis augue. Nam ut nibh mollis, tristique ante sed, viverra massa.
-    </p>
-    <div class="icons">
-        <a href="#"><img src="./img/spotify.svg"></a>
-      <a href="#"><img src="./img/facebook.svg"></a>
-      <a href="#"><img src="./img/twitter.svg"></a>
-      <a href="#"><img src="./img/instagram.svg"></a>
-    </div>
+    <img src="./img/nha-logo.png" alt="" class="footer-logo img-fluid">
   </div>
   <div class="footer-center col-md-4 col-sm-6">
     <div>
@@ -26,14 +17,21 @@
     </div>
   </div>
   <div class="footer-right col-md-4 col-sm-6">
-    <!-- <img src="./img/nha-logo.png" class="img-fluid" alt="NHA Logo"> !-->
+  <div class="icons">
+        <a href="#"><img src="./img/spotify.svg"></a>
+      <a href="#"><img src="./img/facebook.svg"></a>
+      <a href="#"><img src="./img/twitter.svg"></a>
+      <a href="#"><img src="./img/instagram.svg"></a>
+    </div>
+    <!-- <img src="./img/nha-logo.png" class="img-fluid" alt="NHA Logo" 
     <p class="menu">
       <a href="#"> Home</a> |
       <a href="#"> Music + Videos</a> |
-     <!-- <a href="#"> Tour</a> |-->
+   <a href="#"> Tour</a> |
       <a href="#"> Photos</a> |
       <a href="#"> Store</a>
     </p>
     <p class="name"> NHA &copy; <?php echo date("Y"); ?></p>
+    !-->
   </div>
 </footer>

@@ -11286,5 +11286,8 @@ textarea.form-control-lg {
     margin-left: 0;
   }
 }
+.footer-logo {
+  max-width: 150px;
+}
 
 /*# sourceMappingURL=style.css.map */
